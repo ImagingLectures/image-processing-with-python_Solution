@@ -1,2 +1,2 @@
-# ImageProcessingWithPython_Solution
-Solutions to the basiv image processing assignment
+# Image processing with Python solutions
+Solutions to the basic image processing tutorial/assignment
